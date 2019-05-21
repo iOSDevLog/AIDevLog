@@ -1,24 +1,24 @@
-AI开发日志 代码资源等
+# AI开发日志 代码资源等
 
 ## 计划
 
-* 预备知识
-    * Python 基础
-    * 数学基础
-* 机器学习
-    * 统计学习方法
-    * 西瓜书
-    * 机器学习实战
-* 深度学习
-    * 花书
-    * Tensorflow
-    * PyTorch
-    * CS231n: 计算机视觉
-    * CS224n: 自然语言处理
-* 强化学习
-    * 简易 AlphaGo
-* 竞赛
-    * Kaggle
+1. 预备知识
+    1. [Python 基础](Python%20基础/README.md)
+    1. [数学基础](数学基础/README.md)
+1. 机器学习
+    1. [统计学习方法](统计学习方法/README.md)
+    1. [统计学习（西瓜书）](西瓜书/README.md)
+    1. [机器学习实战](机器学习实战/README.md)
+1. 深度学习
+    1. [深度学习（花书）](花书/README.md)
+    1. [Tensorflow](Tensorflow/README.md)
+    1. [PyTorch](PyTorch/README.md)
+    1. [CS231n: 计算机视觉](计算机视觉/README.md)
+    1. [CS224n: 自然语言处理](自然语言处理/README.md)
+1. 强化学习
+    1. [简易 AlphaGo](简易%20AlphaGo/README.md)
+1. 竞赛
+    1. [Kaggle](Kaggle/README.md)
 
 ## 进度
 
