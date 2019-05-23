@@ -1,4 +1,6 @@
 # Python 基础
 
-* [Python 基础入门教程](PythonBasic.md)
-* [2019年最新最全的 Anaconda 安装指南](Anaconda.md)
+* [Python 零基础入门](PythonZero.md)
+* [2019 年最新最全的 Anaconda 安装指南](Anaconda.md)
+* [Jupyter 快捷键](Jupyter.ipynb)
+* [Python 基础](PythonBasic.ipynb)

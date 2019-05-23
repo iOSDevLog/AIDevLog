@@ -22,11 +22,13 @@
 
 ## 进度
 
-<https://github.com/iOSDevLog/AIDevLog/projects?query=is%3Aopen+sort%3Aname-asc>
+[https://github.com/iOSDevLog/AIDevLog/projects](https://github.com/iOSDevLog/AIDevLog/projects?query=is%3Aopen+sort%3Aname-asc)
 
 ## 联系方式
 
-网站: <http://2019.iosdevlog.com/>
+网站: [http://2019.iosdevlog.com/](https://2019.iosdevlog.com/)
+
+GitHub: [https://github.com/iOSDevLog/AIDevLog](https://github.com/iOSDevLog/AIDevLog)
 
 Email:  iosdevlog[at]iosdevlog.com
 
