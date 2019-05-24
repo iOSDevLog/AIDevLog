@@ -5,3 +5,4 @@
 * [Jupyter 快捷键](Jupyter.ipynb)
 * [Python 基础](PythonBasic.ipynb)
 * [Numpy 基础](NumpyBasic.ipynb)
+* [Pandas 基础](PandasBasic.ipynb)
