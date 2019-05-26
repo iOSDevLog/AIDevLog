@@ -6,3 +6,4 @@
 * [Python 基础](PythonBasic.ipynb)
 * [Numpy 基础](NumpyBasic.ipynb)
 * [Pandas 基础](PandasBasic.ipynb)
+* [Matplotlib 基础](MatplotlibBasic.ipynb)
