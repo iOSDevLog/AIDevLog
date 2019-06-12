@@ -1,3 +1,5 @@
+![wmbook](https://repository-images.githubusercontent.com/191505403/6a63bc80-8d1d-11e9-8bd7-44aaa16ccdb9)
+
 # AI开发日志 代码资源等
 
 ## 计划
