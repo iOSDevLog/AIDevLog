@@ -42,6 +42,10 @@ Twitter: [iOSDevLog](https://twitter.com/iOSDevLog)
 
 ![AIDevLog](https://2019.iosdevlog.com/uploads/AIDevLog.jpg)
 
+Telegram Channel: [AIDevLog](https://t.me/AIDevLog)
+
+Telegram Group: [AIDevLogGroup](https://t.me/AIDevLogGroup)
+
 ## License
 
 AIDevLog is released under the MIT license. See LICENSE for details.
